@@ -1,0 +1,12 @@
+{
+	"mode": "loop",
+	"account": ["ygr99_by"],
+	"loop": [17781916471,17781916750],
+	"file": "\\data\\文件名",
+	"dump": 3,
+	"sleep": 30,
+	"sleep-flag": 4
+}
+
+
+

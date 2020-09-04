@@ -9,3 +9,5 @@ zlzp--可以录入工作地点和职位爬去职位信息可以存到本地或�
 meizitu--爬妹子图图片到本地磁盘
 
 dtfz--冲顶大会等答题辅助
+
+addwechatfriends_yxc--通过手机号查询微信号
